@@ -1,32 +1,7 @@
 [
   {
     "email": "ilaria@test.com",
-    "password": "28d1e3cb7daf6870f02147723717b2c41634bc50e4427ffde537c2d8484d531569ac5141ed043c8051ce987f797f9f37f127c91e4cb1b2fc59f470e404ed4851.3d6fe8ff2fb525ad",
-    "id": "d4f73400"
-  },
-  {
-    "email": "ilaria@test.com",
-    "password": "2955be294942344e7b489f6a9ef6451781bc20f719c9236e1a5206a0b683bbafac49630b9c77939dcd0d7af3fc0e7d9a366f1bd746168493ddd521095dfde2e8.6e80a1bad9cff6cc",
-    "id": "0edc37d7"
-  },
-  {
-    "email": "ilaria@test.com",
-    "password": "c6fb3a756b0bcaec8d7d1e267d542e00c95733d7827d3ccea3fb6c5dd52a50f0e53745cc00967663bd08d1535c771260219ebc2bce0095e3cdc77870fc5d4a64.8731601cb41a39cd",
-    "id": "e795c139"
-  },
-  {
-    "email": "ilaria@test.com",
-    "password": "1ee9fb9304223436a30eb2b40d8c754802c564506d8604e956bbdf6513b031e7300cfae1d2865c6853c5c2be69c1ca135fd2fabb66cad4a2279f9fcccd9ca282.09489788e315cba9",
-    "id": "0c14d88c"
-  },
-  {
-    "email": "ilaria@test.com",
-    "password": "f592e595af405f990f332d6dfbc58e081e1244f4e704931698e62352179b8313be351fdf764e486344475d3bb6e07aa9adf058aa7c712a14189e1eb07a8e6093.f88ae8b5a3038fe4",
-    "id": "44119e12"
-  },
-  {
-    "email": "ilariacallegari@gmail.com",
-    "password": "ab0fbb3d16421b48c71e91a72127e0767f982e2e6ed1dbce3c6d9d098e94413369580b8933c6f689091adf439e166c563f0105f266669d64fd326b134e29dd3b.26caa26c965054df",
-    "id": "0d7ca390"
+    "password": "95318d233a03a5616bbb1402497c73cc7605ff7791411433d718ba9c517673062c7f4577d3537823c58e9418eee525e7e3d5e6f69f6480eba23aef4b32ed4bf5.219d449ac9394a0b",
+    "id": "fd7297e1"
   }
 ]
