@@ -2,6 +2,17 @@ const { body } = require("express-validator");
 const usersRepo = require("../../repositories/users");
 
 module.exports = {
+  requireTitle: body('title')
+  .trim()
+  .isLength({min: 5, max: 40})
+  .withMessage("Must be between 5 and 40 charachters"),
+
+  requirePrice: body('price')
+  .trim()
+  .toFloat() //take the string received from the form and turn it into a number with decimals numbers
+  .isFloat({min: 1})
+  .withMessage("Must be a number greater than 1"),
+
   requireEmail: body("email")
     .trim()
     .normalizeEmail()
