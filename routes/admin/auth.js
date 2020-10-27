@@ -28,7 +28,7 @@ router.post(
     const user = await usersRepo.create({ email, password });
     //store the id of that user inside the user cookie
     req.session.userId = user.id;
-    res.send("Account created");
+    res.redirect('/admin/products');
   }
 );
 
@@ -48,7 +48,7 @@ router.post(
     const { email } = req.body;
     const user = await usersRepo.getOneBy({ email });
     req.session.userId = user.id;
-    res.send("Yuo are successfully signed in!");
+    res.redirect('/admin/products');
   }
 );
 
